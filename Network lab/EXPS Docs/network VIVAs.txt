@@ -1,0 +1,5 @@
+OSI model TCP/IP protocol
+data link funcs , protocol stop wait arq,sliding window, hammering
+subnetting,routing module 3 
+routing algo Module 6 
+ 
